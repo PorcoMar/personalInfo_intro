@@ -6,7 +6,6 @@
   "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
-    "start": "npm run dev",
     "build": "node build/build.js",
     "http": "http-server ./personalInfoDist -p 1314 -o"
   },
