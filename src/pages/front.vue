@@ -31,52 +31,45 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.3s">
-                    <h4>性别</h4>
-                    <div class="info">{{userInfo.sex}}</div>
+                    <h4>性别 : {{userInfo.sex}}</h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.45s">
-                    <h4>年龄</h4>
-                    <div class="info">{{calcDate(userInfo.birthday)}}</div>
+                    <h4>年龄 : {{calcDate(userInfo.birthday)}}</h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.5s" :href="'mailto:'+userInfo.email">
-                    <h4>学历</h4>
-                    <div class="info">{{userInfo.education}}</div>
+                    <h4>学历 : {{userInfo.education}}</h4>
+                    <div class="info"></div>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <a class="item wow inShow" data-wow-delay="0.55s" :href="userInfo.website" target="_blank">
-                    <h4>经验</h4>
-                    <div class="info">{{userInfo.exp[0]+(calcDate(userInfo.workSince)-1)+userInfo.exp[1]+calcDate(userInfo.workSince)+userInfo.exp[2]}}</div>
+                    <h4>经验 : {{userInfo.exp[0]+(calcDate(userInfo.workSince)+1)+userInfo.exp[1]+calcDate(userInfo.workSince)+userInfo.exp[2]}}</h4>
                   </a>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.6s">
-                    <h4>Phone</h4>
-                    <address class="info">{{userInfo.phone}}</address>
+                    <h4><a href="tel:18602905478">Phone : {{userInfo.phone}}</a></h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.65s">
-                    <h4>QQ</h4>
-                    <div class="info">{{userInfo.qq.number}}</div>
+                    <h4>QQ : {{userInfo.qq.number}}</h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <a class="item wow inShow" data-wow-delay="0.7s" :href="userInfo.website" target="_blank">
-                    <h4>Website</h4>
-                    <div class="info">{{userInfo.website}}</div>
+                    <h4>Website : porcofish.net</h4>
                   </a>
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <a class="item wow inShow" data-wow-delay="0.75s" :href="userInfo.github" target="_blank">
-                    <h4>Github</h4>
-                    <div class="info">{{userInfo.github}}</div>
+                    <h4>Github : github@PM</h4>
                   </a>
                 </div>
               </div>
@@ -269,8 +262,10 @@
             <div class="row">
               <div class="col-md-6 col-lg-3">
                 <div class="item">
+                  <a href="tel:18602905478">
                   <h4>Phone</h4>
                   <div class="info">{{userInfo.phone}}</div>
+                  </a>
                 </div>
               </div>
               <div class="col-md-6 col-lg-3">

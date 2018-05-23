@@ -1,35 +1,35 @@
 {
-  "name":"王世霖",
+  "name":"周猛",
   "sex":"男",
-  "birthday":"1992-08-24",
-  "workSince":"2012-11-01",
+  "birthday":"1993-02-05",
+  "workSince":"2015-03-05",
   "exp":["毕业","年工作","年"],
-  "nickname":"源泉",
-  "firstName":"wang",
-  "lastName":"wesley",
-  "slogan":"追求专业与卓越前端开发者",
-  "tips":"Ctrl+p可以印本简历，打印时显示真名",
-  "education":"专科",
-  "phone":15001827426,
-  "location":"Shanghai·China",
+  "nickname":"PorcoMar",
+  "firstName":"Mar",
+  "lastName":"Porco",
+  "slogan":"唯code与热爱不可辜负",
+  "tips":"Ctrl+p打印&&显示真名",
+  "education":"本科",
+  "phone":18602905478,
+  "location":"chengdu·China",
   "qq":{
-    "number":"790313188"
+    "number":"990135141"
   },
-  "website":"http://79px.com",
-  "github":"https://github.com/eternityspring",
-  "email":"eternityspring@gmail.com",
+  "website":"http://porcofish.net",
+  "github":"https://github.com/PorcoMar?tab=repositories",
+  "email":"zm990135141@163.com",
   "intro":{
     "content":[
-      "4年＋的一线城市研发经验。1年＋的带团队经验。做过些许优化工作流的小工具。",
-      "熟悉前端项目构建，有过基于 angular 和 vue 的产品开发经验。",
-      "喜欢开源，懂产品，会设计。可以做 node.js 后端。熟悉和习惯 restful 的开发模式和基于git的版本管理。",
+      "3年＋的前端研发经验。做过些许优化工作流的小工具。",
+      "熟悉前端项目构建，有过基于 angular、vue、微信小程序 的产品开发经验。",
+      "喜欢开源，懂产品，会设计。熟悉和习惯 restful 的开发模式和基于git的版本管理。",
       "熟悉 vue 和 angular。常用 scss 和 webpack。爱折腾。没事喜欢做做小东西。",
       "有做过小程序“黄龙客栈”和 hybrid APP。"
     ],
     "technology":{
-      "title":"用过的技术栈：",
+      "title":"熟悉的技术栈：",
       "content":[
-        "scss","bootstrap","vue","gulp","node.js","angular","express","mongodb","webpack","ionic"
+        "bootstrap","jquery","vue","angular1.x","bower","gulp","browserify","webpack","node.js","npm","express","ejs","mongodb","mock","sass","less","wepy","vuepress","微信小程序"
       ]
     }
   },
@@ -106,31 +106,31 @@
     },
     {
       "name":"PhotoShop",
-      "percent":"80%"
+      "percent":"85%"
     },
     {
-      "name":"JavaScript",
-      "percent":"75%"
+      "name":"Jquery",
+      "percent":"85%"
     },
     {
       "name":"Nodejs",
       "percent":"60%"
     },
     {
-      "name":"MongoDB",
-      "percent":"60%"
+      "name":"Wepy",
+      "percent":"85%"
     },
     {
       "name":"Bootstrap",
-      "percent":"95%"
-    },
-    {
-      "name":"Angular",
       "percent":"75%"
     },
     {
+      "name":"Angular",
+      "percent":"70%"
+    },
+    {
       "name":"Vue",
-      "percent":"85%"
+      "percent":"80%"
     }
   ],
   "project":[
