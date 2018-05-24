@@ -240,32 +240,33 @@
   "usually":[
     {
       "name":"GitHub",
-      "link":"https://github.com/eternityspring",
-      "description":"分享一些我的小作品 结交志同道合的朋友"
+      "link":"https://github.com/PorcoMar",
+      "description":"分享和学习的重大场所 举行代码仪式的不二之选😏"
     },
     {
-      "name":"知乎",
-      "link":"https://www.zhihu.com/people/790313188",
-      "description":"搜索解决一些疑问 探索新奇"
+      "name":"gitee",
+      "link":"https://gitee.com/PorcoMar/projects",
+      "description":"工作中的代码托管平台 国内服务器不管是pages还是其他都超快"
     },
     {
-      "name":"MDN",
-      "link":"https://developer.mozilla.org",
-      "description":"查阅一些技术文档"
+      "name":"简书",
+      "link":"https://www.jianshu.com",
+      "description":"超赞的阅读体验，略显文艺的代码和其他骚操作并存"
     },
     {
-      "name":"Behance",
-      "description":"寻找灵感探索新奇"
+      "name":"stackoverflow",
+      "link":"https://stackoverflow.com",
+      "description":"当你找不到答案时就来这里"
     },
     {
-      "name":"Dribbble",
-      "link":"https://dribbble.com/eternityspring",
-      "description":"寻找灵感探索新奇"
+      "name":"segmentfault",
+      "link":"https://segmentfault.com",
+      "description":"思否清新的阅读体验和技术好文"
     },
     {
-      "name":"CodePen",
-      "link":"http://codepen.io/eternityspring",
-      "description":"探索和分享好的代码"
+      "name":"porcofish",
+      "link":"http://www.porcofish.net",
+      "description":"怎么能少得了我的红烧鱼呢"
     }
   ]
 }

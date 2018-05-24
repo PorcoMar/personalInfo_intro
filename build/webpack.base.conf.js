@@ -3,11 +3,12 @@ const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
 const vueLoaderConfig = require('./vue-loader.conf')
+const webpack = require('webpack')
 
 function resolve (dir) {
   return path.join(__dirname, '..', dir)
 }
-
+const BannerPlugin = new webpack.BannerPlugin('你看不见我看不见我看不见我');
 module.exports = {
   entry: {
     app: './src/main.js',
@@ -64,5 +65,8 @@ module.exports = {
         }
       }
     ]
-  }
+  },
+  plugins: [
+    BannerPlugin//打印版权归属
+  ]
 }
