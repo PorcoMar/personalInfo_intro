@@ -55,7 +55,7 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.6s">
-                    <h4><a href="tel:18602905478">Phone : {{userInfo.phone}}</a></h4>
+                    <h4><a href="tel:18602905478">Phone/wx : {{userInfo.phone}}</a></h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
