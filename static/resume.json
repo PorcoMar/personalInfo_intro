@@ -21,15 +21,15 @@
   "intro":{
     "content":[
       "3年＋的前端研发经验。",
-      "熟悉前端项目构建，有过基于 angular、vue、微信小程序 的产品开发经验。",
-      "喜欢开源，懂产品，会设计。熟悉和习惯 restful 的开发模式和基于git的版本管理。",
-      "熟悉类vue的各种拓展写法。常用 scss 和 gulp。爱折腾。没事喜欢做做小东西。",
-      "有做过小程序'亦蓁家'、'亦蓁家门店管理系统'、'亦蓁家后台管理系统'"
+      "熟悉前端项目构建，有过基于 jquery、express、angular、vue、微信小程序 的产品开发经验。",
+      "喜欢开源，懂产品，会设计。熟悉和习惯基于git的版本管理。",
+      "熟悉类vue的各种拓展写法。常用 wepy 和 gulp。爱折腾。喜好新鲜有趣的东西。",
+      "做过基于wepy的亦蓁家用户版、亦蓁家门店管理系统、亦蓁家后台管理系统"
     ],
     "technology":{
       "title":"熟悉的技术栈：",
       "content":[
-        "bootstrap","jquery","vue","angular1.x","bower","gulp","browserify","webpack","node.js","npm","express","ejs","mongodb","mock","sass","less","mpvue","wepy","vuepress","微信小程序"
+        "bootstrap","jquery","vue","angular1.x","bower","gulp","browserify","webpack","node.js","npm","yarn","express","ejs","mongodb","mock","sass","less","mpvue","wepy","vuepress","微信小程序"
       ]
     }
   },
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "time":"2015.2-2016.11",
-      "title":"云知声",
+      "time":"2015.3-2016.11",
+      "title":"北京光明网。。。",
       "intro":"前端开发",
       "description":"期间，大部分精力都用于钻研和探索前端的工程化。代码从css转到less，从less转到scss。学习了nodejs，熟悉了gulp。基于gulp做了很多前端自动化构建的工具。同时，也学习和使用了一些前端框架如：angular、vuejs等。",
       "tips":[
@@ -139,7 +139,7 @@
       "time":"2016.11-2018.06",
       "title":"上海亦蓁网络科技有限公司",
       "intro":"一个母婴生活服务平台。",
-      "description":"亦蓁母婴集团下各个子公司的互联网平台的开发和维护，包括网站、移动端、微商城、小程序以及各种活动页面的制作和实现。",
+      "description":"参与开发亦蓁母婴集团下各个子公司的互联网平台的开发和维护，包括网站、移动端、微商城、小程序以及各种活动页面的制作和实现。",
       "tips":[
         {
           "title":"实现的主要功能：",
@@ -148,13 +148,15 @@
             "门店管理小程序",
             "后台管理小程序",
             "微信商城",
-            "",
-            "",
+            "预约管理",
             "优惠券、体验金",
             "红包商城",
             "积分商城",
+            "电子合同",
             "活动页面",
-            "重构好娘家官网"
+            "重构好娘家官网",
+            "亦蓁家官网",
+            "爱的果实官网"
           ]
         }
       ],
@@ -162,7 +164,7 @@
         {
           "title":"技术栈：",
           "content":[
-            "node.js","vue","scss","webpack","bootstrap"
+            "jquery","node.js","webpack","angular","vue","scss","less","wepy","gulp","browserify","express"
           ]
         }
       ]
