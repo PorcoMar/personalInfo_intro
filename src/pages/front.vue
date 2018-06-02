@@ -336,10 +336,13 @@
       }
     },
     created(){
+      // console.log(info)
       var self = this;
       this.$http.get('/static/resume.json').then((res) =>{
-        self.userInfo = res.body;
-        this.$parent.loading = true;
+        // self.userInfo = res.body;
+        self.userInfo = JSON.parse(res.bodyText)
+        // console.log(JSON.parse(res.bodyText));
+      this.$parent.loading = true;
       });
     },
     methods:{
