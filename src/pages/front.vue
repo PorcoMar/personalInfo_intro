@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                   <div class="item wow inShow" data-wow-delay="0.45s">
-                    <h4>年龄 : {{calcDate(userInfo.birthday)}}</h4>
+                    <h4>年龄 : {{userInfo.age}}</h4>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -225,7 +225,7 @@
             <h2 class="title">常逛&nbsp;/&nbsp;
               <small><i>Usually</i></small>
             </h2>
-            <div class="description">经常逛的技术或其他相关网站</div>
+            <div class="description">经常逛的技术或其他网站</div>
           </div>
         </header>
         <div class="section-content">
@@ -341,7 +341,6 @@
       this.$http.get('/static/resume.json').then((res) =>{
         // self.userInfo = res.body;
         self.userInfo = JSON.parse(res.bodyText)
-        // console.log(JSON.parse(res.bodyText));
       this.$parent.loading = true;
       });
     },
