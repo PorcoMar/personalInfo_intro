@@ -21,7 +21,7 @@
   "email":"zm990135141@163.com",
   "intro":{
     "content":[
-      "✧&nbsp;&nbsp;3年＋的前端研发经验。精通JavaScript、HTML、CSS技术体系，熟悉主流前端框架",
+      "✧&nbsp;&nbsp;3年前端开发经验。精通JavaScript、HTML、CSS技术体系，熟悉主流前端框架",
       "✧&nbsp;&nbsp;熟悉前端项目构建，有过基于 jQuery、Bootstrap、NodeJs、AngularJs、Vue.js、微信小程序的产品开发经验。",
       "✧&nbsp;&nbsp;熟悉和习惯Node+Express的开发环境和基于git的版本管理。",
       "✧&nbsp;&nbsp;熟悉jQuery和类Vue的拓展写法。常用 Wepy 和 Gulp。",
@@ -121,7 +121,7 @@
     },
     {
       "name":"AngularJs",
-      "percent":"70%"
+      "percent":"65%"
     },
     {
       "name":"Vue",
@@ -133,7 +133,7 @@
       "time":"2015.03-2016.10",
       "title":"❉ 俺的律师",
       "intro":"光明网下的法律服务平台",
-      "description":"期间参与了俺的律师下pc和移动端开发、微信用户端、小程序、以及部分管理后台的前端开发工作。",
+      "description":"期间参与了俺的律师下pc和移动端开发、微信用户端、小程序、H5制作、以及部分管理后台的前端开发工作。",
       "tips":[
         {
           "title":"➳ 主要业务：",
@@ -160,7 +160,7 @@
       "time":"2016.11-2018.06",
       "title":"❉ 亦蓁家",
       "intro":"一个品质母婴生活服务平台。",
-      "description":"参与开发亦蓁母婴集团下各个子公司的互联网平台的开发和维护，包括网站、移动端、微商城、小程序以及各种活动页面的制作和实现。",
+      "description":"参与亦蓁母婴集团下各个子公司的互联网平台的开发和维护，包括网站、移动端、业务组件、微商城、小程序以及各种活动页面的制作和实现。",
       "tips":[
         {
           "title":"➳ 主要业务：",
