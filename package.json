@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "personalInfo_intro",
   "version": "2.0.0",
   "description": "a resume for a programmer",
   "author": "wesley",
@@ -8,6 +8,10 @@
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
     "http": "http-server ./personalInfoDist -p 1314 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PorcoMar/personalInfo_intro.git"
   },
   "dependencies": {
     "http-server": "^0.11.1",
